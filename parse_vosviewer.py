@@ -30,7 +30,7 @@ G_COLORS = [
     "deeppink1"
     ]
 
-# ===================== Loading a User Model ============   
+# ===================== Loading arguments ============   
 parser = ArgumentParser()
 
 parser.add_argument("corpus", help="Path of a corpus file")
